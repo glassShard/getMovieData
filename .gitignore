@@ -1,0 +1,8 @@
+/venv
+/debug.log
+/.idea
+/hbo-movies.json
+/hbo-urls.json
+/netflix-urls.json
+/netflix-movies.json
+/__pycache__
